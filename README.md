@@ -4,10 +4,10 @@ Applying Decision Tree Classifier on a Real-Life Scenario Using Python
 ---
 
 ### Objectives:
-•	Understand the working principles of Decision Trees.
-•	Implement the Decision Tree algorithm using Python and libraries like scikit-learn.
-•	Evaluate the performance of Decision Tree models on real-world datasets.
-•	Visualize decision trees to interpret model decisions.
+- Understand the working principles of Decision Trees.
+- Implement the Decision Tree algorithm using Python and libraries like scikit-learn.
+- Evaluate the performance of Decision Tree models on real-world datasets.
+- Visualize decision trees to interpret model decisions.
 
 ---
 
