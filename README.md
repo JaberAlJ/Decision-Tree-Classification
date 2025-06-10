@@ -3,7 +3,7 @@
 ## ✍️ About the Author
 > Written by: [*JaberAlJ*](https://github.com/JaberAlJ)
 
-## 1. 🩺 Project Overview
+## 1. 🩺 Repository Overview
 - **Objective**: Predict the most effective drug 💊 (`A`, `B`, `C`, `X`, `Y`) for patients based on health indicators.
 - **Context**: Clinical data analysis for personalized medication recommendation.
 
